@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión de Vehículos - Concesionaria
 
 Sistema de gestión de vehículos con operaciones CRUD (Crear, Leer, Actualizar, Eliminar) conectado a base de datos MySQL.
@@ -174,3 +175,7 @@ Proyecto Unidad 1 - Programación Visual
 ## ?? Licencia
 
 Este proyecto es para fines educativos.
+=======
+# Proyecto-Integrador----Parcial-2-Programacion-Visual-
+En este repositorio se encuentra el proyecto integrador de la unidad 1 que antes utilizaba vectores y matrices para el guardado de la informacion y en esta ocacion se uso el mismo proyecto pero con la conexion a una base de datos 
+>>>>>>> cf24d552fdc06c1e2fc1b84e46dee834d62535a5
